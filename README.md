@@ -47,7 +47,6 @@ Spring Boot
 MyBatis
 MySQL数据库
 Maven
-# 作者
-WW
+# 作者: WW
 # 许可证
 本项目使用 MIT 许可证进行许可 - 有关详情，请参见 LICENSE.md 文件。
